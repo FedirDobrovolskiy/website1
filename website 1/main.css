@@ -1,0 +1,14 @@
+body {
+    width: 50%;
+    border: 1px solid;
+    padding: 20px;
+    margin: auto;
+}
+
+
+  table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5em;
+  }
